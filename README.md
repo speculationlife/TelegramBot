@@ -3,5 +3,5 @@ Telegram
 # 常用机器人
 | 名字 | 链接 |
 | --- | --- |
-| `按钮机器人` | @PostBot |
+| `按钮机器人` | [@PostBot](www.baidu.com) |
 
